@@ -2,9 +2,9 @@
 
 **BSc Astronomy** · Universiteit Leiden | **Minor Biomedical Engineering** · TU Delft
 
-I'm a second-year astronomy student at Leiden University with a strong focus on data analysis, statistical modelling, and observational astrophysical projects. My work spans exoplanet characterisation, stellar photometry, transient classification, and through my biomedical minor mechanical testing of surgical devices. I enjoy turning messy real-world datasets into clean, statistically rigorous results.
+I'm a third-year astronomy student at Leiden University with a strong focus on data analysis, statistical modelling, and observational astrophysical projects. My work spans exoplanet characterisation, stellar photometry, transient classification, and through my biomedical minor mechanical testing of surgical devices. I enjoy turning messy real-world datasets into clean, statistically rigorous results.
 
-📍 Leiden, Netherlands &nbsp;·&nbsp; 📧 s3966879@vuw.leidenuniv.nl · 🔗 [LinkedIn](https://www.linkedin.com/in/elliot-czarik)
+📍 Leiden, Netherlands &nbsp;·&nbsp; 📧 elliot.czarik@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/elliot-czarik)
 
 ---
 
