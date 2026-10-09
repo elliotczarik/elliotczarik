@@ -34,9 +34,9 @@ I'm a second-year astronomy student at Leiden University with a strong focus on 
 
 | | |
 |---|---|
-| **BSc Astronomy** — Universiteit Leiden | 2024–present · GPA 7.2/10 |
-| **Minor Biomedical Engineering** — TU Delft | 2025–2026 · GPA 8.0/10 |
-| **BSc Physics (Propaedeutic Year)** — Universiteit Leiden | 2023–2024 · GPA 7.0/10 |
+| **BSc Astronomy** — Universiteit Leiden | 2024–present · GPA 7/10 |
+| **Minor Biomedical Engineering** — TU Delft | 2025–2026 · GPA 8/10 |
+| **BSc Physics (Propaedeutic Year)** — Universiteit Leiden | 2023–2024 · GPA 7/10 |
 
 ---
 
